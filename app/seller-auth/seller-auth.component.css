@@ -1,0 +1,63 @@
+h2{
+    color: black;
+}
+.text{
+    margin-left: 650px;
+    margin-top: 40px;
+    font-size: 40px;
+}
+
+.seller-box{
+    position: absolute;
+    left: 610px;
+    padding: 40px;
+    margin-top: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-image: linear-gradient(to left, #83a4d4,#b6fbff);
+}
+
+.seller-input
+{
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 5px;
+    border: none;
+    background-color: rgb(222, 223, 224);
+   
+}
+.btn{
+    padding:8px;
+    margin-left: 6px;
+    padding-left: 90px;
+    padding-right: 103px;
+    border-radius: 0px;
+    background-color: rgb(222, 223, 224);
+    margin-top: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+.btn1{
+    text-align: center;
+    padding:8px;
+    margin-left: 6px;
+    padding-left: 104px;
+    padding-right: 110px;
+    border: none;
+    background-color: rgb(222, 223, 224);
+    margin-top: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+.text-style{
+    color: gray;
+}
+.link-style{
+    color: #3535f9;
+}
+.auth-error{
+    position: absolute;
+    left: 700px;
+    color: red;
+}

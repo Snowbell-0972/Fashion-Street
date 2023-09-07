@@ -1,0 +1,82 @@
+.nav{
+        display: flex;
+        justify-content: space-between;
+        background-color: rgb(25, 25, 25);
+        height: 100px;
+        width: 1470px;
+}
+.nav h1 a{
+    position: absolute;
+    margin: 20px;
+    padding-top: -2px;
+    font-size: 40px;
+    text-decoration: none;
+    
+}
+.nav h1 a img{
+    width: 110px;
+    height: 70px;
+}
+.nav ul{
+    display: inline-flex;
+    list-style-type: none;
+    margin: 20px;
+    padding: 0;
+}
+.nav li{
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right:15px ;
+}
+.nav li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.nav-search{
+    margin-top: 33px;
+    flex: 1px;
+    display: flex;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.nav-search input{
+    flex: 1;
+    border: 1px ;
+    height: 33px;
+    border-right: 0px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.nav button{
+    border: 1px ;
+    background-color: rgb(27, 182, 244);
+    width: 80px;
+    color: gray;
+    height: 33px;
+    border-left: 0px;
+    cursor: pointer;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.suggested-result{
+    position: absolute;
+    display: list-item !important;
+    z-index: 10;
+    background-color: #fff;
+    width: 550px;
+    top: 40px;
+    border: 1px solid #ddd;
+    margin-top: 2
+}
+.suggested-result li{
+    border: 1px solid #fff;
+    padding: 5px;
+}
+.suggested-result li a{
+    cursor: pointer;
+    color: black;
+}
+
+

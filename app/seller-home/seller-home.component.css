@@ -1,0 +1,26 @@
+table{
+    text-align: left;
+    color: lightslategray;
+    border-collapse: collapse;
+}
+table td, table th{
+    border: 1px solid lightslategray;
+    padding: 10px;
+    min-height: 160px;
+
+}
+.btn{
+    padding:8px;
+    margin-left: 6px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: rgb(231, 229, 229);
+    border-radius: 20px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.img-size{
+    width: 100px;
+    height: 100px;
+}

@@ -1,0 +1,21 @@
+.order-data{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px  solid #ddd;
+    
+}
+.btn{
+    margin-left: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 0px;
+    background-color: rgb(222, 223, 224);
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+.col-sm-2{
+    align-items: center;
+    padding-left: 50px;
+    padding-top: 20px;
+}

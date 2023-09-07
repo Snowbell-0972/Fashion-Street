@@ -1,0 +1,46 @@
+.checkout-input
+{
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 5px;
+    border: none;
+    background-color: rgb(217, 212, 212);
+    border-radius: px;
+}
+.checkout h1{
+   text-align: center;
+   margin-top: 50px;
+   margin-bottom: 50px;
+}
+p{
+    margin-left: 292px;
+    color: green;
+}
+.btn{
+    padding:8px;
+    margin-left: 6px;
+    padding-left: 83px;
+    padding-right: 94px;
+    border-radius: 0px;
+    background-color: rgb(222, 223, 224);
+    margin-top: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+.shipping-address{
+   position: absolute;
+   margin-left: 250px;
+}
+.shipping-address h3{
+    margin-left: 30px;
+}
+form{
+    background-image: linear-gradient(to left, #83a4d4,#b6fbff);
+    padding: 30px;
+}
+.payment{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 50px;
+}
