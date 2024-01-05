@@ -1,4 +1,4 @@
-# totalitycorp-frontend-challenge
+# Fashion-Street (e-commerce website)
 1)It is an E-commerce website where we can buy clothes.
 2)It has all kinds of clothes.
 3)This website includes authentication for customer and Vendor through which Customer and Vendor are authenticated.
